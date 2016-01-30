@@ -1,0 +1,14 @@
+
+body{
+	background: url("../images/fg.jpg");
+}
+.calc-main {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	margin-top: 20px;
+	margin-left: -250px;
+}
+.calc-small {
+	margin-left: -130px;
+}
